@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  display: inline;
+  margin-top: 10px;
+  
+  
+}
+img{
+  width:400px;
+  /* height:300px; */
+  gap:5px;
+
+}
+
+/* "pLLbM4ey0wffycBI59O2Mj6MDN4j7ejLaXx2HkEa9_g" */
+/* `https://api.unsplash.com/search/photos?page=1&query=${update}&client_id=${ClientId}` */
